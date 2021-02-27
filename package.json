@@ -1,6 +1,6 @@
 {
   "name": "hexo-relative-link",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Convert the relative path of the Markdown file to be based on the hexo asset folder",
   "homepage": "https://github.com/Jianfeng-Du/hexo-relative-link#readme",
   "main": "index.js",
