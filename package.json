@@ -1,8 +1,8 @@
 {
   "name": "hexo-relative-link",
-  "version": "3.0.0",
-  "description": "Convert the relative path of the Markdown file to be based on the hexo asset folder",
-  "homepage": "https://github.com/Jianfeng-Du/hexo-relative-link#readme",
+  "version": "3.0.1",
+  "description": "Convert relative links in markdown files to absolute links of the Hexo blog",
+  "homepage": "https://github.com/2-3-5-7/hexo-relative-link#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,13 +12,13 @@
     "typora",
     "relative link"
   ],
-  "author": "Jianfeng Du",
+  "author": "Jian-Feng Du",
   "license": "MIT",
   "peerDependencies": {
     "hexo": "^4.0.0 || ^5.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jianfeng-Du/hexo-relative-link.git"
+    "url": "git+https://github.com/2-3-5-7/hexo-relative-link.git"
   }
 }
