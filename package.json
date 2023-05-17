@@ -1,0 +1,24 @@
+{
+  "name": "hexo-relative-link",
+  "version": "3.0.3",
+  "description": "Convert relative links in markdown files to absolute links of the Hexo blog",
+  "homepage": "https://github.com/2-3-5-7/hexo-relative-link#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "typora",
+    "relative link"
+  ],
+  "author": "Jian-Feng Du",
+  "license": "MIT",
+  "peerDependencies": {
+    "hexo": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2-3-5-7/hexo-relative-link.git"
+  }
+}
