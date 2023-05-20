@@ -1,6 +1,6 @@
 {
   "name": "hexo-relative-link",
-  "version": "3.0.3",
+  "version": "3.1.0",
   "description": "Convert relative links in markdown files to absolute links of the Hexo blog",
   "homepage": "https://github.com/2-3-5-7/hexo-relative-link#readme",
   "main": "index.js",
