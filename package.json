@@ -1,7 +1,7 @@
 {
   "name": "hexo-relative-link",
-  "version": "3.1.0",
-  "description": "Convert relative links in markdown files to absolute links of the Hexo blog",
+  "version": "3.2.1",
+  "description": "Convert relative links(images, articles, headings) in markdown files to the Hexo link format",
   "homepage": "https://github.com/2-3-5-7/hexo-relative-link#readme",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,12 @@
   },
   "keywords": [
     "hexo",
-    "typora",
-    "relative link"
+    "asset",
+    "images",
+    "relative links",
+    "markdown",
+    "obsidian",
+    "typora"
   ],
   "author": "Jian-Feng Du",
   "license": "MIT",
